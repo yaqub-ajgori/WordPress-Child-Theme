@@ -1,0 +1,12 @@
+/**
+ * Theme Name: Child Theme 
+ * Description: Child theme
+ * Author: Md. Yaqub Ajgori
+ * Author URI: http://yaqub.me
+ * Template: blocksy
+ * Text Domain: blocksy
+ */
+
+body{
+    background-color: #000 !important;
+ }
